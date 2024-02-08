@@ -1,3 +1,0 @@
-1234,Daniel,Neumólogo
-1011,Jesús,Otorrinolaringólogo
-1013,Marta,Cardióloga
